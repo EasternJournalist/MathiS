@@ -1,0 +1,37 @@
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\bin\Debug\ScienceAndMath.exe.config
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\bin\Debug\ScienceAndMath.exe
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\bin\Debug\ScienceAndMath.pdb
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.csprojAssemblyReference.cache
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.Properties.Resources.resources
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.GenerateResource.cache
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.CoreCompileInputs.cache
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.exe
+C:\Users\王瑞程\AppData\Local\Temporary Projects\ScienceAndMath\obj\Debug\ScienceAndMath.pdb
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.exe.config
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.exe
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.pdb
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csprojAssemblyReference.cache
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.Form1.resources
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.Properties.Resources.resources
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.GenerateResource.cache
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.CoreCompileInputs.cache
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.exe
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.pdb
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.dll
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.pdb
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.xml
+D:\2019 Projects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.CopyComplete
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.exe.config
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.exe
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\ScienceAndMath.pdb
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.dll
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.pdb
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\bin\Debug\OpenGL.Net.WinForms.xml
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csprojAssemblyReference.cache
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.Form1.resources
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.Properties.Resources.resources
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.GenerateResource.cache
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.CoreCompileInputs.cache
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.csproj.CopyComplete
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.exe
+D:\DevelopProjects\ScienceAndMath\ScienceAndMath\obj\Debug\ScienceAndMath.pdb
